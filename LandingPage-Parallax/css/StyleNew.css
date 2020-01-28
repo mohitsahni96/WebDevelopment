@@ -43,7 +43,13 @@ body, html{
     letter-spacing:8px;
     text-transform:uppercase;
 }
+.ptext, .border{
 
+    background-color: #111;
+    color: #fff;
+    padding: 8px;
+
+}
 .pimg1{
     background-image:url('C:/xampp/htdocs/Webfiles/css/img/img6.jpg');
     /* background-repeat: repeat-x;  */
